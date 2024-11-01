@@ -1,0 +1,209 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+/* navicon */
+
+.navicon{
+    margin-left: 300px;
+    font-size: x-large;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.icus{
+    padding-left: 20px;
+
+}
+.fon{
+    color: white;
+}
+
+/* body */
+.mBody{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* switch */
+.btdiv{
+    width: 100vh;
+    background-color: rgb(212, 189, 39);
+    width: 320px;
+    height: 40px;
+    margin-top: 35px;
+    margin-bottom: 50px;
+   
+    border-radius: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn1{
+    padding: 5px;
+}
+
+/* image head */
+.imgH{
+    width: 200px;
+    
+}
+.hImg{
+    
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+.Bhead{
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+}
+.mar{
+    padding-left: 110px;
+}
+.para{ 
+    margin-top: 10px;
+    font-size:x-large;
+    color: rgb(61, 59, 59);
+    
+}
+.plast{
+    padding-left: 250px;
+    
+}
+.lBottons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+   
+}
+.bton{
+    padding-left: 50px;
+    margin-right: 10px;
+}
+.btone{
+    padding-right: 40px;
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    
+    background-color:beige;
+    
+    
+}
+.bton{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: px;
+   
+    
+
+}
+.btono{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    background-color: purple;
+}
+
+/* footer */
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.parent{
+    margin-top: 100px;
+    width: 100%;
+}
+
+
+
+
+
+
+#aa{
+
+    width: 100%;
+    height: 330px;
+    margin-top: 100px;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.ggg{
+    margin-top: 50px;
+    width: 25;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+    
+}
+
+.gg{
+    margin-top: 50px;
+    width: 500px;
+    padding: 10px;
+    margin-left: 5px;
+
+    
+}
+#title{
+    padding-left: 40px;
+    margin-top: -30px;
+    margin-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 100;
+
+    
+    
+}
+
+#ic{
+    padding-top: 5px;
+    font-size: 30px;
+    
+    
+}
+li{
+    margin: 10px;
+    list-style: none;
+    margin-left: 0px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-family:serif
+    
+    
+}
+.sub{
+    font-family: sans-serif;
+    color: rgb(109, 106, 106);
+
+
+}
+p{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(47, 46, 46);
+}
